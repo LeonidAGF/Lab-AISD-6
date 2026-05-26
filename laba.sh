@@ -1,7 +1,7 @@
 #!/bin/bash
 
-upper="ABCDEFGHIJKLMNOPQRSTUVWXYZАБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯ"
-lower="abcdefghijklmnopqrstuvwxyzабвгдеёжзийклмнопрстуфхцчшщъыьэюя"
+upper="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+lower="abcdefghijklmnopqrstuvwxyz"
 
 read -p "path: " target_dir
 read -p "col: " shift_val
